@@ -1,6 +1,6 @@
 # Introduction
 
-[![Build Status](https://travis-ci.org/mtnygard/lein-lesscss.svg)](https://travis-ci.org/mtnygard/lein-lesscss)
+[![Build Status](https://travis-ci.org/mtnygard/lein-lesscss.svg?branch=master)](https://travis-ci.org/mtnygard/lein-lesscss)
 
 This plugin allows the user to compile [Less CSS](http://lesscss.org/) resources
 to be used in the application.
